@@ -15,6 +15,7 @@ class Task extends Model
         2 => [ 'label' => '着手中', 'class' => 'label-info'],
         3 => [ 'label' => '完了', 'class' => 'label-default']
     ];
+    
 
     /**
      * 状態のラベル
